@@ -2,4 +2,4 @@ title: My Portfolio
 description: This is my portfolio showcasing my projects and skills.
 baseurl: "" # leave empty since this is your user page
 url: "https://CS2845737.github.io" # replace YOURUSERNAME with your GitHub username
-theme: jekyll-theme-timemachine # replace “merlot” with your chosen theme from the list
+theme: jekyll-theme-time-machine # replace “merlot” with your chosen theme from the list
